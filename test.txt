@@ -2,7 +2,3 @@ HolaMundo
 Se corrige hotfix.
 HF2
 +INC01
-cambio en dev 
-ramadevelopdeprueba
-asdasd
-asdasdasas
