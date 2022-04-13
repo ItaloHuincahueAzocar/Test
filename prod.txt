@@ -1,8 +1,0 @@
-asdasdasdasdasd
-<<<<<<< HEAD
-
-asdasdlkj12
-=======
-asd123123asd
-0991823
->>>>>>> feature2
